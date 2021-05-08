@@ -1,5 +1,3 @@
-console.log("loading js file");
-//console.log("test");
 function myFunction() {
   var x = document.getElementById("myTopnav");
   if (x.className === "topnav") {
